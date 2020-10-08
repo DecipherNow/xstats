@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/deciphernow/xstats"
-	"github.com/deciphernow/xstats/dogstatsd"
+	"github.com/greymatter-io/xstats"
+	"github.com/greymatter-io/xstats/dogstatsd"
 )
 
 func ExampleNew() {

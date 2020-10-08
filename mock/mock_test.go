@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/deciphernow/xstats"
+	"github.com/greymatter-io/xstats"
 	"github.com/stretchr/testify/assert"
 )
 

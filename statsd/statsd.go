@@ -1,4 +1,4 @@
-// Package statsd implement the StatsD protocol for github.com/deciphernow/xstats
+// Package statsd implement the StatsD protocol for github.com/greymatter-io/xstats
 package statsd
 
 import (
@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/deciphernow/xstats"
+	"github.com/greymatter-io/xstats"
 )
 
 // Inspired by https://github.com/streadway/handy statsd package
