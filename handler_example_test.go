@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/deciphernow/xstats"
-	"github.com/deciphernow/xstats/dogstatsd"
+	"github.com/greymatter-io/xstats"
+	"github.com/greymatter-io/xstats/dogstatsd"
 	"github.com/rs/xhandler"
 )
 

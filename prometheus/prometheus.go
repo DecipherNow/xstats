@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/deciphernow/xstats"
+	"github.com/greymatter-io/xstats"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )

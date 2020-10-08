@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/deciphernow/xstats"
+	"github.com/greymatter-io/xstats"
 )
 
 type sender struct {

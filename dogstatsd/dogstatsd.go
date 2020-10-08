@@ -1,4 +1,4 @@
-// Package dogstatsd implement Datadog extended StatsD protocol for github.com/deciphernow/xstats
+// Package dogstatsd implement Datadog extended StatsD protocol for github.com/greymatter-io/xstats
 package dogstatsd
 
 import (
@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/deciphernow/xstats"
+	"github.com/greymatter-io/xstats"
 )
 
 // Inspired by https://github.com/streadway/handy statsd package

@@ -1,4 +1,4 @@
-module github.com/deciphernow/xstats
+module github.com/greymatter-io/xstats
 
 go 1.14
 
